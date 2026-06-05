@@ -10,6 +10,8 @@
 Este programa es una aplicacion de consola desarrollada en Python 3.x diseñada para la administracion, consulta y analisis de un dataset de paises almacenado en formato CSV. El sistema permite realizar de manera persistente las operaciones de alta y actualizacion de registros, busquedas parciales o exactas, aplicaciones de filtros especificos (por continente, rangos de poblacion y superficie), ordenamientos mediante un algoritmo manual (Bubble Sort) bajo multiples criterios de seleccion, y la generacion de indicadores estadisticos calculados mediante acumuladores y estructuras ciclicas manuales, sin recurrir a funciones integradas del lenguaje.
 
 ---
+**ENLACE VIDEO EXPLICATIVO:** https://www.youtube.com/watch?v=bQB_msC49p0 
+
 
 ## 2. Integrantes del Proyecto
 * **Integrante 1:** [Fernandez Martin] 
